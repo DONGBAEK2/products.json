@@ -4,15 +4,15 @@
     "link": "https://songgm001.imweb.me/101/?idx=5",
     "soldOut": "https://cdn.imweb.me/upload/S20231220378a820149bc6/fb7ff38303022.png",
     "itemImg": "https://cdn.imweb.me/upload/S20231220378a820149bc6/42f888b8e7bcc.jpg",
-    "month": "1개월",
+    "month": "5개월",
     "name": "name",
     "title": "title",
     "profitRate": "0.9% / 3.6%",
     "minPurchase": "3,000,000 원",
     "target": "60,000,000원 목표",
-    "currentAmount": "0",
-    "participants": "0명",
-    "achievementRate": "0%"
+    "currentAmount": "60,000,000원",
+    "participants": "10명",
+    "achievementRate": "100%"
   },
   {
     "id": "상품2",
