@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ross Bleckner",
+    "duration": "1개월",
+    "image": "https://cdn.imweb.me/upload/S20231103e8ff227e76e88/d192b66577431.png",
+    "artwork": "Untitled, 2010",
+    "rate": "0.8% / 3.2%",
+    "minAmount": "3,000,000 원",
+    "goal": "45,000,000원 목표",
+    "currentAmount": "21,000,000원",
+    "targetAmount": 45000000,
+    "participants": 7,
+    "achievementRate": "46.7%",
+    "link": "http://example.com/product1"
+  },
+  {
+    "name": "Alex Katz",
+    "duration": "2개월",
+    "image": "https://cdn.imweb.me/upload/S20231103e8ff227e76e88/d192b66577431.png",
+    "artwork": "Night, 2015",
+    "rate": "1.2% / 4.8%",
+    "minAmount": "4,000,000 원",
+    "goal": "60,000,000원 목표",
+    "currentAmount": "30,000,000원",
+    "targetAmount": 60000000,
+    "participants": 10,
+    "achievementRate": "50%",
+    "link": "http://example.com/product2"
+  },
+  {
+    "name": "Yayoi Kusama",
+    "duration": "3개월",
+    "image": "https://cdn.imweb.me/upload/S20231103e8ff227e76e88/d192b66577431.png",
+    "artwork": "Infinity, 2018",
+    "rate": "1.5% / 6.0%",
+    "minAmount": "5,000,000 원",
+    "goal": "75,000,000원 목표",
+    "currentAmount": "45,000,000원",
+    "targetAmount": 75000000,
+    "participants": 15,
+    "achievementRate": "60%",
+    "link": "http://example.com/product3"
+  }
+]
