@@ -6,5 +6,8 @@
   "minPurchaseAmount": "3,000,000 원",
   "targetAmount": "45,000,000원",
   "progress": "50%",
-  "imageUrl": "https://example.com/path/to/your/image.jpg"
+  "imageUrl": "https://example.com/path/to/your/image.jpg",
+  "achievedAmount": "22,500,000원",
+  "participants": "120명",
+  "achievementRate": "50%"
 }
