@@ -1,13 +1,81 @@
-{
-  "artist": "Ross Bleckner",
-  "title": "Untitled, 2010",
-  "weeklyReturn": "0.8%",
-  "monthlyReturn": "3.2%",
-  "minPurchaseAmount": "3,000,000 원",
-  "targetAmount": "45,000,000원",
-  "progress": "50%",
-  "imageUrl": "https://example.com/path/to/your/image.jpg",
-  "achievedAmount": "22,500,000원",
-  "participants": "120명",
-  "achievementRate": "50%"
-}
+[
+  {
+    "artist": "Ross Bleckner",
+    "title": "Untitled, 2010",
+    "weeklyReturn": "0.8%",
+    "monthlyReturn": "3.2%",
+    "minPurchaseAmount": "3,000,000 원",
+    "targetAmount": "45,000,000원",
+    "progress": "50%",
+    "imageUrl": "https://example.com/path/to/your/image1.jpg",
+    "achievedAmount": "22,500,000원",
+    "participants": "120명",
+    "achievementRate": "50%"
+  },
+  {
+    "artist": "Artist 2",
+    "title": "Title 2",
+    "weeklyReturn": "1.0%",
+    "monthlyReturn": "4.0%",
+    "minPurchaseAmount": "2,000,000 원",
+    "targetAmount": "30,000,000원",
+    "progress": "60%",
+    "imageUrl": "https://example.com/path/to/your/image2.jpg",
+    "achievedAmount": "18,000,000원",
+    "participants": "90명",
+    "achievementRate": "60%"
+  },
+ {
+    "artist": "Artist 3",
+    "title": "Title 3",
+    "weeklyReturn": "1.0%",
+    "monthlyReturn": "4.0%",
+    "minPurchaseAmount": "2,000,000 원",
+    "targetAmount": "30,000,000원",
+    "progress": "60%",
+    "imageUrl": "https://example.com/path/to/your/image2.jpg",
+    "achievedAmount": "18,000,000원",
+    "participants": "90명",
+    "achievementRate": "60%"
+  },
+ {
+    "artist": "Artist 4",
+    "title": "Title 4",
+    "weeklyReturn": "1.0%",
+    "monthlyReturn": "4.0%",
+    "minPurchaseAmount": "2,000,000 원",
+    "targetAmount": "30,000,000원",
+    "progress": "60%",
+    "imageUrl": "https://example.com/path/to/your/image2.jpg",
+    "achievedAmount": "18,000,000원",
+    "participants": "90명",
+    "achievementRate": "60%"
+  },
+ {
+    "artist": "Artist 5",
+    "title": "Title 5",
+    "weeklyReturn": "1.0%",
+    "monthlyReturn": "4.0%",
+    "minPurchaseAmount": "2,000,000 원",
+    "targetAmount": "30,000,000원",
+    "progress": "60%",
+    "imageUrl": "https://example.com/path/to/your/image2.jpg",
+    "achievedAmount": "18,000,000원",
+    "participants": "90명",
+    "achievementRate": "60%"
+  },
+ {
+    "artist": "Artist 6",
+    "title": "Title 6",
+    "weeklyReturn": "1.0%",
+    "monthlyReturn": "4.0%",
+    "minPurchaseAmount": "2,000,000 원",
+    "targetAmount": "30,000,000원",
+    "progress": "60%",
+    "imageUrl": "https://example.com/path/to/your/image2.jpg",
+    "achievedAmount": "18,000,000원",
+    "participants": "90명",
+    "achievementRate": "60%"
+  },
+  // Add 4 more objects for the remaining cards
+]
