@@ -118,9 +118,9 @@
       "name": "Product 6",
       "title": "작품명: title13\n수익률(주/월): 0.9% / 3.6%\n최소구매금액: 3,000,000원",
       "target": "60,000,000원 목표",
-      "achievementMoney": "0",
-      "participantPeople": "0명",
-      "achievementRate": "0%"
+      "achievementMoney": "60,000,000원",
+      "participantPeople": "12명",
+      "achievementRate": "100%"
     },
     {
       "id": "상품7",
